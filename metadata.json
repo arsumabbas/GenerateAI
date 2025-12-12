@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FlashMind - AI Flashcards",
+  "description": "A premium, minimalist flashcard application inspired by Noji. Features spaced repetition, AI generation via Gemini, and local storage privacy.",
+  "requestFramePermissions": []
+}
